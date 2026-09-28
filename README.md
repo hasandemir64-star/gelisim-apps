@@ -1,7 +1,8 @@
 # Gelişim Otomasyon & Yazılım — Ürünler
 
-İki ürün geliştiriyoruz: uzaktaki bilgisayarlara güvenle bağlanmak için **AnyPilot**,
-Chrome'un boş yeni sekmesini çalışma panosuna çevirmek için **MyDash**.
+Üç ürün geliştiriyoruz: uzaktaki bilgisayarlara güvenle bağlanmak için **AnyPilot**,
+Chrome'un boş yeni sekmesini çalışma panosuna çeviren **MyDash** ve web sayfalarını
+sesli okuyan **Parla**.
 
 🌐 **[anypilot.gelisimapps.com](https://anypilot.gelisimapps.com)** · ✉️ iletisim@gelisimapps.com
 
@@ -46,6 +47,20 @@ Pomodoro sayacı, hava durumu, haberler ve hızlı bağlantılar tek ekranda.
 
 ---
 
+## Parla — Sesli okuma uzantısı
+
+Web sayfalarını, makaleleri ve dokümanları doğal yapay zeka sesleriyle sesli okur.
+Gözlerinizi dinlendirin, işinizi sürdürürken dinleyin.
+
+- Doğal, akıcı yapay zeka sesleri
+- Herhangi bir web sayfasını tek tıkla okutma
+- Okuma hızı ve ses seçimi
+- Hesap gerekmez
+
+🧩 **[Chrome Web Mağazası'ndan ücretsiz kur](https://chromewebstore.google.com/detail/ofcmhlkiemeicaaijgppcgfnjdbgoech)** · 📄 **[Ürün sayfası](https://anypilot.gelisimapps.com/parla.html)** · 🇬🇧 **[English](https://anypilot.gelisimapps.com/parla-en.html)**
+
+---
+
 ## In English
 
 **AnyPilot** is self-hosted remote desktop and remote support software: end-to-end
@@ -56,12 +71,16 @@ server with your own branding. → [anypilot.gelisimapps.com/anypilot-en.html](h
 timer, weather, news and quick links, all in one place. Free on the Chrome Web Store,
 available in 6 languages. → [anypilot.gelisimapps.com/mydash-en.html](https://anypilot.gelisimapps.com/mydash-en.html)
 
+**Parla** reads web pages, articles and documents aloud with natural AI voices. Rest
+your eyes and keep working while you listen. → [anypilot.gelisimapps.com/parla-en.html](https://anypilot.gelisimapps.com/parla-en.html)
+
 ---
 
 ## Videolar
 
 - 🎬 [AnyPilot tanıtım filmi (TR)](https://youtu.be/UAWCqC7AMHs) · [EN](https://youtu.be/49N-qSP7xZk)
-- 🎬 [MyDash tanıtım filmi (TR)](https://youtu.be/WhnxOOi2gSY) · [EN](https://youtu.be/Oy6GCYYVz_U)
+- 🎬 [MyDash tanıtım filmi (TR)](https://youtu.be/UkuOT1F7KGU) · [EN](https://youtu.be/hLwGmIyxbUE)
+- 🎬 [Parla tanıtım filmi (TR)](https://youtu.be/Zdnn9nbJwKA) · [EN](https://youtu.be/0cPUECzD5b8)
 - 📺 [YouTube kanalımız](https://www.youtube.com/@Anypilotgelisimapps)
 
 ## İletişim
